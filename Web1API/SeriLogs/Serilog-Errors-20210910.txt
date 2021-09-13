@@ -1,0 +1,17 @@
+2021-09-10 08:51:53.371 +02:00 [WRN] MyCustomKey : MyCustomKey Value coming from appsettings.UnoEuro.json
+2021-09-10 08:51:53.376 +02:00 [WRN] ConnectionString : Server=mssql5.unoeuro.com;Database=buchwaldshave34_dk_db;User ID=buchwaldsha_dk;Password=buchwald34;MultipleActiveResultSets=True
+2021-09-10 10:45:18.469 +02:00 [WRN] MyCustomKey : MyCustomKey Value coming from appsettings.Development.json
+2021-09-10 10:45:18.474 +02:00 [WRN] ConnectionString : Server=(localdb)\mssqllocaldb;Database=h1pd081121_Wep1Api_DB;Trusted_Connection=True;MultipleActiveResultSets=true
+2021-09-10 10:45:45.791 +02:00 [WRN] Alle data læst af : UserL
+2021-09-10 10:53:50.705 +02:00 [WRN] MyCustomKey : MyCustomKey Value coming from appsettings.Development.json
+2021-09-10 10:53:50.714 +02:00 [WRN] ConnectionString : Server=(localdb)\mssqllocaldb;Database=h1pd081121_Wep1Api_DB;Trusted_Connection=True;MultipleActiveResultSets=true
+2021-09-10 10:54:18.317 +02:00 [WRN] Alle data læst af : LarsT_SW
+2021-09-10 10:54:42.373 +02:00 [WRN] Alle data læst af : LarsT_Po
+2021-09-10 11:03:11.486 +02:00 [WRN] MyCustomKey : MyCustomKey Value coming from appsettings.Development.json
+2021-09-10 11:03:11.503 +02:00 [WRN] ConnectionString : Server=(localdb)\mssqllocaldb;Database=h1pd081121_Wep1Api_DB;Trusted_Connection=True;MultipleActiveResultSets=true
+2021-09-10 11:03:31.240 +02:00 [WRN] Alle data læst af : Test_All
+2021-09-10 11:03:54.227 +02:00 [WRN] Data med ID : 1 læst af : Test_One
+2021-09-10 11:04:52.806 +02:00 [WRN] MyCustomKey : MyCustomKey Value coming from appsettings.UnoEuro.json
+2021-09-10 11:04:52.814 +02:00 [WRN] ConnectionString : Server=mssql5.unoeuro.com;Database=buchwaldshave34_dk_db;User ID=buchwaldsha_dk;Password=buchwald34;MultipleActiveResultSets=True
+2021-09-10 11:04:56.567 +02:00 [WRN] Alle data læst af : No Name
+2021-09-10 11:05:56.424 +02:00 [WRN] Alle data læst af : LarsT_Po_UnoEuro

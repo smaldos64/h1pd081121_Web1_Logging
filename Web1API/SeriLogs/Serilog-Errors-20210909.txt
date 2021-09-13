@@ -1,0 +1,4 @@
+2021-09-09 15:40:51.401 +02:00 [WRN] MyCustomKey : MyCustomKey Value coming from appsettings.ITCN.json
+2021-09-09 15:40:51.408 +02:00 [WRN] ConnectionString : Server=sql.itcn.dk\TCAA;Database=ltpe4.TCAA;User ID=ltpe.TCAA;Password=5uF68R0Tbt;MultipleActiveResultSets=True
+2021-09-09 21:42:47.169 +02:00 [WRN] MyCustomKey : MyCustomKey Value coming from appsettings.UnoEuro.json
+2021-09-09 21:42:47.174 +02:00 [WRN] ConnectionString : Server=mssql5.unoeuro.com;Database=buchwaldshave34_dk_db;User ID=buchwaldsha_dk;Password=buchwald34;MultipleActiveResultSets=True
