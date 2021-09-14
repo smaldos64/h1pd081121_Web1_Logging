@@ -20,6 +20,7 @@
     "Web1Api": {
       "commandName": "Project",
       "launchBrowser": true,
+      //"launchUrl": "api/TodoItems",
       "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
@@ -53,6 +54,17 @@
       "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Production"
+      },
+      "dotnetRunMessages": "true",
+      "applicationUrl": "https://localhost:5001;http://localhost:5000"
+    },
+    "LTPE": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      //"launchUrl": "swagger",
+      "launchUrl": "api/Todoitems",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Staging"
       },
       "dotnetRunMessages": "true",
       "applicationUrl": "https://localhost:5001;http://localhost:5000"
